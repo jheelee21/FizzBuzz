@@ -3,7 +3,11 @@
  */
 class FizzBuzz {
 
-    public static void main() {
+    public static void main(String[] args) {
+
+    }
+
+    public static void fizzbuzz() {
 
         for (int i = 1; i < 100; i++) {
 
